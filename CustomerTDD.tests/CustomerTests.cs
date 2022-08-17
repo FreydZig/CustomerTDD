@@ -1,10 +1,10 @@
-using Customer.Validators;
+using CustomerTDD.Validators;
 using FluentValidation.TestHelper;
 using System;
 using System.Collections.Generic;
 using Xunit;
 
-namespace Customer.tests
+namespace CustomerTDD.tests
 {
     public class CustomerTests
     {

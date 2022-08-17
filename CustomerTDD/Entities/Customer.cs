@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace Customer
+namespace CustomerTDD
 {
     public class Customer : Persone
     {

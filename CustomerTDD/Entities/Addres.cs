@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Customer
+namespace CustomerTDD
 {
     public class Addres
     {

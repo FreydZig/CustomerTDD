@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Customer.Validators
+namespace CustomerTDD.Validators
 {
     public class AddresValidator : AbstractValidator<Addres>
     {
