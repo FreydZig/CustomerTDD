@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J0ASSJU42anvPHDyYEkNy9kjXf/WFKTKUdDid55ZKHcNbBqJhATIdAVmuVndqDIHfcUNYiTL7pxXrKr+tOpibA==",
+  "success": true,
+  "projectFilePath": "D:\\Eboba\\CustomerTDD\\CustomerTDD\\CustomerTDD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zigmu\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
